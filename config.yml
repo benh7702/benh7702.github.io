@@ -50,6 +50,8 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+
+    
     profileMode:
           enabled: true
           title: Ben Heskin
@@ -64,6 +66,7 @@ params:
           url: articles/
         - name: CV
           url: cv/
+
 
     socialIcons:
         - name: CV
