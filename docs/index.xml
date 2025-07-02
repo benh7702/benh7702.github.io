@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ben Heskin</title>
-    <link>https://benh7702.github.io/portfolio/</link>
+    <link>http://localhost:1313/portfolio/</link>
     <description>Recent content on Ben Heskin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://benh7702.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Students Divided Over Opt-In Union Membership</title>
-      <link>https://benh7702.github.io/portfolio/articles/su/</link>
+      <link>http://localhost:1313/portfolio/articles/su/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benh7702.github.io/portfolio/articles/su/</guid>
+      <guid>http://localhost:1313/portfolio/articles/su/</guid>
       <description>A February 2025 poll of students reveals 36.7 % favour an optional TCDSU with an undecided quarter leaving support for the union in the balance.</description>
     </item>
     
     <item>
       <title>Poll: Social Democrats maintain huge lead as most popular party among Trinity students</title>
-      <link>https://benh7702.github.io/portfolio/articles/ge/</link>
+      <link>http://localhost:1313/portfolio/articles/ge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benh7702.github.io/portfolio/articles/ge/</guid>
+      <guid>http://localhost:1313/portfolio/articles/ge/</guid>
       <description>The party have been most popular for five years according to polling by Trinity News</description>
     </item>
     
     <item>
       <title>Poll projects RON result in TCDSU presidential election</title>
-      <link>https://benh7702.github.io/portfolio/articles/ron/</link>
+      <link>http://localhost:1313/portfolio/articles/ron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benh7702.github.io/portfolio/articles/ron/</guid>
+      <guid>http://localhost:1313/portfolio/articles/ron/</guid>
       <description>A poll conducted by Trinity News found that the vote for RON may be twice as high as any other candidate</description>
     </item>
     
     <item>
       <title>Poll: RON campaign sees major upward momentum even as O’Leary leads</title>
-      <link>https://benh7702.github.io/portfolio/articles/main_poll/</link>
+      <link>http://localhost:1313/portfolio/articles/main_poll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benh7702.github.io/portfolio/articles/main_poll/</guid>
+      <guid>http://localhost:1313/portfolio/articles/main_poll/</guid>
       <description>John Garvey leads the race for welfare officer, while Ents remains too close to call</description>
     </item>
     
     <item>
       <title>Using Copulas to Model Prepayment and Default in Competing Risks Analysis</title>
-      <link>https://benh7702.github.io/portfolio/projects/copulas/</link>
+      <link>http://localhost:1313/portfolio/projects/copulas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benh7702.github.io/portfolio/projects/copulas/</guid>
+      <guid>http://localhost:1313/portfolio/projects/copulas/</guid>
       <description>As part of a group project, we produced a report evaluating how effectively copulas model competing risks in loan data.</description>
     </item>
     
     <item>
       <title>An Extended Mixture of Experts Model for Rank Data: Insights from Irish Elections</title>
-      <link>https://benh7702.github.io/portfolio/projects/capstone/</link>
+      <link>http://localhost:1313/portfolio/projects/capstone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benh7702.github.io/portfolio/projects/capstone/</guid>
+      <guid>http://localhost:1313/portfolio/projects/capstone/</guid>
       <description>Capstone Project (Thesis) for undergraduate degree</description>
     </item>
     
     <item>
       <title>Sampling Plackett-Luce Distributions to Study Condorcet Paradoxes in Ranked-Choice Voting</title>
-      <link>https://benh7702.github.io/portfolio/projects/hamilton/</link>
+      <link>http://localhost:1313/portfolio/projects/hamilton/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benh7702.github.io/portfolio/projects/hamilton/</guid>
+      <guid>http://localhost:1313/portfolio/projects/hamilton/</guid>
       <description>The report from my research internship that I completed Summer 2024</description>
     </item>
     

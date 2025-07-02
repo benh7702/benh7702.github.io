@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://benh7702.github.io/portfolio/articles/su/</loc>
+    <loc>http://localhost:1313/portfolio/articles/su/</loc>
   </url><url>
-    <loc>https://benh7702.github.io/portfolio/articles/ge/</loc>
+    <loc>http://localhost:1313/portfolio/articles/ge/</loc>
   </url><url>
-    <loc>https://benh7702.github.io/portfolio/articles/ron/</loc>
+    <loc>http://localhost:1313/portfolio/articles/ron/</loc>
   </url><url>
-    <loc>https://benh7702.github.io/portfolio/articles/main_poll/</loc>
+    <loc>http://localhost:1313/portfolio/articles/main_poll/</loc>
   </url><url>
-    <loc>https://benh7702.github.io/portfolio/projects/copulas/</loc>
+    <loc>http://localhost:1313/portfolio/projects/copulas/</loc>
   </url><url>
-    <loc>https://benh7702.github.io/portfolio/projects/capstone/</loc>
+    <loc>http://localhost:1313/portfolio/projects/capstone/</loc>
   </url><url>
-    <loc>https://benh7702.github.io/portfolio/projects/hamilton/</loc>
+    <loc>http://localhost:1313/portfolio/projects/hamilton/</loc>
   </url><url>
-    <loc>https://benh7702.github.io/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://benh7702.github.io/portfolio/experience/</loc>
+    <loc>http://localhost:1313/portfolio/experience/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://benh7702.github.io/portfolio/articles/</loc>
+    <loc>http://localhost:1313/portfolio/articles/</loc>
   </url><url>
-    <loc>https://benh7702.github.io/portfolio/projects/</loc>
+    <loc>http://localhost:1313/portfolio/projects/</loc>
   </url><url>
-    <loc>https://benh7702.github.io/portfolio/search/</loc>
+    <loc>http://localhost:1313/portfolio/search/</loc>
   </url><url>
-    <loc>https://benh7702.github.io/portfolio/socials/</loc>
+    <loc>http://localhost:1313/portfolio/socials/</loc>
   </url><url>
-    <loc>https://benh7702.github.io/portfolio/tags/</loc>
+    <loc>http://localhost:1313/portfolio/tags/</loc>
   </url>
 </urlset>
