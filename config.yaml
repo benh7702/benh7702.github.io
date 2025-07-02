@@ -1,7 +1,11 @@
-baseURL: "https://arkalim.netlify.app"
+publishDir: "docs"
+baseURL: "https://benh7702.github.io/portfolio/"
 languageCode: en-us
-title: Abdur Rahman
-theme: PaperMod
+title: Ben Heskin
+theme:
+  - "hugo-embed-pdf-shortcode"
+  - "PaperMod"
+enableInlineShortcodes: true
 
 taxonomies:
   tag: tags
@@ -12,31 +16,28 @@ menu:
     - identifier: home
       name: Home
       url: /
-      weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog
+      weight: 10 
+    - identifier: experience
+      name: CV
+      url: /experience
       weight: 20
+    - identifier: articles
+      name: Articles
+      url: /articles
+      weight: 30
     - identifier: projects
       name: Projects
       url: /projects
-      weight: 30
-    - identifier: experience
-      name: Experience
-      url: /experience
-      weight: 40
-    - identifier: search
-      name: Search
-      url: /search
       weight: 50
-    # - identifier: tags
+ 
+ 
+    # - identifier: tags 
     #   name: Tags
     #   url: /tags
     #   weight: 60
     # - identifier: notes
     #   name: Notes
-    #   url: https://notes.arkalim.org
-    #   weight: 70
+    #   weight: 70 
 
 params:
   # theme
@@ -52,11 +53,9 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: Hi 👋 I'm Abdur, a tech enthusiast who loves solving complex problems. As a Software Developer in the Backend Infrastructure team at [**Clio**](https://www.clio.com), I'm building robust systems to transform the legal experience for all. By evening, you can find me pushing the limits of my strength at the gym or whipping up my favorite recipe in the kitchen. Let's connect and create something awesome together!
-
- 
-    imageUrl: "home/casual-small-square.jpeg"
+    title: "Ben Heskin"
+    subtitle: "Hello! I’m Ben, a recent Mathematics graduate (minor in Economics) from Trinity College Dublin. This site showcases my projects, articles, and CV - feel free to reach out with any questions!"
+    imageUrl: "/home/casual-small-square.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -73,15 +72,14 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:ben.heskin77@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/ben-heskin/"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://github.com/benh7702"
+   
 
-  # text search
+  ## text search
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
