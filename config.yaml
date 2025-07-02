@@ -3,6 +3,10 @@ languageCode: en-us
 title: Abdur Rahman
 theme: PaperMod
 
+taxonomies:
+  tag: tags
+  social: socials
+
 menu:
   main:
     - identifier: home
