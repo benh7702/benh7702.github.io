@@ -6,7 +6,7 @@ draft: false
 
 weight: 102
 cover:
-    image: "projects/projects/blog/GE_cover.png"
+    image: "articles/GE_cover.png"
 ---
 A poll conducted by Trinity News indicates that the Social Democrats remain the most popular political party among Trinity students for the fifth consecutive year. Conducted alongside the Trinity News TCDSU sabbatical elections opinion poll between 18 and 21 February, this question received responses from 790 students, indicating a margin of error of plus or minus 3.4%.
 
