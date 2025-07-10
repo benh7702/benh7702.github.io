@@ -1,5 +1,5 @@
 publishDir: "docs"
-baseURL: "https://benh7702.github.io/portfolio/"
+baseURL: "https://benh7702.github.io"
 languageCode: en-us
 title: Ben Heskin
 theme:
@@ -55,7 +55,7 @@ params:
     enabled: true
     title: "Ben Heskin"
     subtitle: "Hello! I’m Ben, a recent Mathematics graduate (minor in Economics) from Trinity College Dublin. This site showcases my projects, articles, and CV - feel free to reach out with any questions!"
-    imageUrl: "/home/casual-small-square.jpg"
+    imageUrl: "static/home/me.png"
     imageWidth: 220
     imageHeight: 220
     # buttons:
