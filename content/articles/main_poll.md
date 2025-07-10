@@ -3,6 +3,7 @@ title: "Poll: RON campaign sees major upward momentum even as O’Leary leads"
 description: "John Garvey leads the race for welfare officer, while Ents remains too close to call"
 dateString: "February 2025"
 draft: false
+
 weight: 104
 cover:
   image: "articles/main_cover.png"

@@ -3,6 +3,7 @@ title: "Students Divided Over Opt-In Union Membership"
 description: "A February 2025 poll of students reveals 36.7 % favour an optional TCDSU with an undecided quarter leaving support for the union in the balance."
 dateString: May 2025
 draft: false
+
 weight: 101
 cover:
     image: "articles/SU_cover.png"

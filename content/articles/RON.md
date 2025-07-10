@@ -2,6 +2,8 @@
 title: "Poll projects RON result in TCDSU presidential election"
 description: "A poll conducted by Trinity News found that the vote for RON may be twice as high as any other candidate"
 dateString: "February 2025"
+draft: false
+
 weight: 103
 cover:
     image: "articles/snap_cover.png"
