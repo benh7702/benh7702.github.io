@@ -5,7 +5,7 @@ dateString: "February 2025"
 draft: false
 weight: 104
 cover:
-  image: "/blog/main_cover.png"
+  image: "articles/main_cover.png"
    
 ---
 

@@ -16,7 +16,7 @@ Fine Gael’s support remains steady at 8.6%, while Fianna Fáil continues to la
 
 The Labour Party and the Green Party hold support from 5.3% and 4.8% of students, respectively. According to Trinity News polling, Green Party support among Trinity students has more than halved during the term of the previous government, of which the party served as a junior coalition partner.
 
-\[](/blog/GE_1.png)
+\[](articles/GE_1.png)
 
 5.3% of respondents indicated they would opt to not vote or spoil their ballot, whereas 5.2% favoured Independent Candidates. Aontú, far-right parties, and Independent Ireland each attracted less than 1% of first preferences in this poll. 
 
