@@ -6,7 +6,7 @@ draft: false
 
 weight: 104
 cover:
-  image: "articles/main_cover.png"
+  image: "/images/main_cover.png"
    
 ---
 

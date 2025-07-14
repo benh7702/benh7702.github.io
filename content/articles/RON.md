@@ -6,7 +6,7 @@ draft: false
 
 weight: 103
 cover:
-    image: "articles/snap_cover.png"
+    image: "/images/snap_cover.png"
 ---
 A Trinity News’ snap poll indicates that 54% of voters in the presidential race intend to vote to re-open nominations (RON).
 
