@@ -16,7 +16,7 @@ Currently, all students are automatically enrolled in the union, with TCDSU rece
 The demographics that most supported a choice to join TCDSU were students in Multi faculty courses, Senior Freshman, and male students with 48.8%, 44.7%, and 43.9% in some sort of agreement with the proposition respectively. In contrast, only 21.4% of non binary students, 27.9% of Senior Sophister students, and 32% of Female students are either in full or partial agreement with the question.
 
 
-![](articles/SU_1.png)
+![](https://github.com/benh7702/benh7702.github.io/blob/master/static/articles/SU_1.png)
 
 To introduce an optional membership structure, Section 1.2 of the TCDSU constitution must be amended. A change to this part of the constitution would require either two-thirds of a TCDSU council meeting to vote in favour of a referendum, or a petition signed by 500 students. The referendum would then need to garner support from over 50% of students to be passed. While a combined 37% of respondents indicated a preference for an opt-in system would not be enough to enact such a measure, two findings in the data could make the unions mandate less stable. First, nearly a quarter of respondents were undecided on the hypothetical proposal; in a real referendum, a shift in the sentiment of these voters could swing the outcome. Second, there is widespread dissatisfaction: 42.5% feel unsupported by College and 41.2% feel unrepresented by TCDSU. 80% of those who feel unrepresented by the union would back an optional membership system.
 
