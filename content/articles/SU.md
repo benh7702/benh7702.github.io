@@ -19,3 +19,5 @@ The demographics that most supported a choice to join TCDSU were students in Mul
 ![](articles/SU_1.png)
 
 To introduce an optional membership structure, Section 1.2 of the TCDSU constitution must be amended. A change to this part of the constitution would require either two-thirds of a TCDSU council meeting to vote in favour of a referendum, or a petition signed by 500 students. The referendum would then need to garner support from over 50% of students to be passed. While a combined 37% of respondents indicated a preference for an opt-in system would not be enough to enact such a measure, two findings in the data could make the unions mandate less stable. First, nearly a quarter of respondents were undecided on the hypothetical proposal; in a real referendum, a shift in the sentiment of these voters could swing the outcome. Second, there is widespread dissatisfaction: 42.5% feel unsupported by College and 41.2% feel unrepresented by TCDSU. 80% of those who feel unrepresented by the union would back an optional membership system.
+
+
