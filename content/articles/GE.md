@@ -6,7 +6,7 @@ draft: false
 
 weight: 102
 cover:
-    image: "articles/GE_cover.png"
+    image: "/images/GE_cover.png"
 ---
 A poll conducted by Trinity News indicates that the Social Democrats remain the most popular political party among Trinity students for the fifth consecutive year. Conducted alongside the Trinity News TCDSU sabbatical elections opinion poll between 18 and 21 February, this question received responses from 790 students, indicating a margin of error of plus or minus 3.4%.
 
@@ -16,7 +16,7 @@ Fine Gael’s support remains steady at 8.6%, while Fianna Fáil continues to la
 
 The Labour Party and the Green Party hold support from 5.3% and 4.8% of students, respectively. According to Trinity News polling, Green Party support among Trinity students has more than halved during the term of the previous government, of which the party served as a junior coalition partner.
 
-![](articles/GE_1.png)
+![](/images/GE_1.png)
 
 5.3% of respondents indicated they would opt to not vote or spoil their ballot, whereas 5.2% favoured Independent Candidates. Aontú, far-right parties, and Independent Ireland each attracted less than 1% of first preferences in this poll. 
 
