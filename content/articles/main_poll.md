@@ -12,7 +12,7 @@ cover:
 
 A poll conducted by Trinity News predicts victories for Aoife Ní Bhriain and Charles Hastings in the races for Oifigeach na Gaeilge and Editor of The University Times, respectively.  Meanwhile, Seán Thim O’Leary currently leads the presidential race with 36.4% of decided voters giving them their first preference. Buster Whaley holds a narrow six point advantage in the Education race, whereas Channing Kehoe appears destined for a comfortable victory in the Communications & Marketing election. In the fiercely contested welfare & equality and Ents races, John Garvey and Yuv Garg lead with 39% and 35% of the votes, respectively.
 
-The poll was conducted among a sample of 867 students between 18 and 21 February, with an estimated margin of error of plus or minus 4.7%. It gathered responses from a representative cross section of intended voters, and included voting likelihood and ranking data, offering an insightful look at the dynamics of the closely contested elections. In single seat races, a candidate must secure at least half of the votes, ensuring no combination of votes allows your opponents to overtake them. 
+The poll was conducted among a sample of 867 students between 18 and 21 February, with an estimated margin of error of plus or minus 4.7%. It gathered responses from a representative cross section of intended voters, and included voting likelihood and ranked data, offering an insightful look at the dynamics of the closely contested elections. In single seat races, a candidate must secure at least half of the votes, ensuring no combination of votes allows their opponents to overtake them. 
 
 ### President 
 
