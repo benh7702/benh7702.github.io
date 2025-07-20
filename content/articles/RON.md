@@ -16,7 +16,7 @@ With most respondents saying they were decided on how they would vote, the margi
 
 RON leads in all but one demographic captured by this snap poll, with over 50% support across these categories. The highest proportion of RON votes comes from senior sophister (fourth year) students, with 72.7% of that cohort indicating they would give RON their first preference. Arts, Humanities and Social Sciences students follow with 58% intending to vote RON, as do 57.8% of students who have previously held a position in TCDSU.
 
-If these results were borne out, it would mark the first time in TCDSU history that a RON outcome is returned in a contested sabbatical officership election. The only RON result in recent memory occurred in the uncontested race for University Times editor in 2022.
+If these results were borne out, it would mark the first time in TCDSU history that a RON outcome is returned in a contested sabbatical officership election. The only RON result in recent memory occurred in the uncontested race for University Times Editor in 2022.
 
 In last week’s larger opinion poll, RON had 19.82% of the vote – a figure that was at the time the largest RON vote ever recorded in a contested race in Trinity News polling. After responses that came in before the launch of the RON campaign were excluded, Trinity News’ analysis showed that 30% of students who decided their preferences later in the week gave RON their first preference.
 
