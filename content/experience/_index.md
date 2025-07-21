@@ -4,6 +4,7 @@ date: 2025-07-02
 draft: false
 ---
 
+{{< pdfbutton src="/experience/BenHeskin_CV.pdf" text="View my CV" >}}
 
 <iframe
   src="/experience/BenHeskin_CV.pdf"
