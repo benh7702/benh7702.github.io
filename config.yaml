@@ -16,40 +16,36 @@ menu:
     - identifier: home
       name: Home
       url: /
-      weight: 10 
+      weight: 10
+
     - identifier: experience
       name: CV
       url: /experience
       weight: 20
 
-      - identifier: articles
+    # Parent for dropdown
+    - identifier: articles
       name: Articles
       url: /articles/
       weight: 30
-      
+
+    # Children in the dropdown
     - identifier: articles-IT
       name: Ireland Thinks
       url: /articles/IT/
       weight: 31
       parent: articles
+
     - identifier: articles-TN
       name: Trinity News
       url: /articles/TN/
       weight: 33
       parent: articles
+
     - identifier: projects
       name: Projects
       url: /projects
       weight: 50
- 
- 
-    # - identifier: tags 
-    #   name: Tags
-    #   url: /tags
-    #   weight: 60
-    # - identifier: notes
-    #   name: Notes
-    #   weight: 70 
 
 params:
   # theme
