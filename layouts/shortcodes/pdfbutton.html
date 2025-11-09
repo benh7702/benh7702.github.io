@@ -1,0 +1,17 @@
+{{/* Simple button/link shortcode for PDFs or any URL
+   Usage:
+   {{< pdfbutton href="/path/file.pdf" text="View PDF" >}}
+   {{< pdfbutton src="/path/file.pdf" text="View PDF" target="_blank" >}}
+*/}}
+
+{{ $href := .Get "href" | default (.Get "src") }}
+{{ $text := .Get "text" | default "View PDF" }}
+{{ $target := .Get "target" | default "_blank" }}
+
+{{ if $href }}
+<a href="{{$href}}" target="{{$target}}" rel="noopener" class="pdfbutton" style="display:inline-block;padding:0.5rem 0.9rem;border:1px solid currentColor;border-radius:6px;text-decoration:none;">
+  {{ $text }}
+</a>
+{{ else }}
+<span style="color:crimson">pdfbutton shortcode: missing 'href' or 'src' parameter.</span>
+{{ end }}
