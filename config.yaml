@@ -21,10 +21,6 @@ menu:
       name: CV
       url: /experience
       weight: 20
-    - identifier: articles
-      name: Articles
-      url: /articles
-      weight: 30
     - identifier: articles-IT
       name: Ireland Thinks
       url: /articles/IT/
