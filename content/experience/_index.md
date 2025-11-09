@@ -1,10 +1,10 @@
 ---
 title: "Curriculum Vitae"
-date: 2025-07-02
+date: 2025-11-09
 draft: false
 ---
 
-{{< pdfbutton src="/experience/BenHeskin_CV.pdf" text="View the pdf in another tab here" >}}
+{{< pdfbutton src="/experience/BenHeskin_CV.pdf" text="View the PDF in another tab" >}}
 
 <iframe
   src="/experience/BenHeskin_CV.pdf"
