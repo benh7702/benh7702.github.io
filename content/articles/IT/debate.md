@@ -3,7 +3,7 @@ title: "Of The Small Amount Listening, Not Enough Were Persuaded."
 dateString: October 2025
 draft: false
 
-weight: 101
+weight: 102
 cover:
     image: "/images/debate_cover.png"
 
