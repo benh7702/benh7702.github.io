@@ -11,7 +11,7 @@ categories: ["Ireland Thinks"]
 
 weight: 101
 cover:
-  image: "/images/housing_cover.png"
+  image: "/projects/projects/housing_cover.png"
 ---
 This research, commissioned by Threshold and Housing Rights, examines the lived reality of renting across the island of Ireland, aiming to equip decision-makers, advocates and practitioners with robust evidence to support effective action.
 
@@ -22,10 +22,10 @@ Ireland (NI), combined with in-depth qualitative interviews to produce a compara
 
 Together, these methods provide a detailed and comparative picture of renting experiences across the two jurisdictions.
 
-{{< pdfbutton src="/projects/1769683815547.pdf" text="View the PDF in another tab" >}}
+{{< pdfbutton src="/projects/projects/1769683815547.pdf" text="View the PDF in another tab" >}}
 
 <iframe
-  src="/projects/1769683815547.pdf"
+  src="/projects/projects/1769683815547.pdf"
   width="100%"
   height="800"
   style="border:none"

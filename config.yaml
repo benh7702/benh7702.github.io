@@ -18,34 +18,29 @@ menu:
       url: /
       weight: 10
 
-    - identifier: experience
-      name: CV
-      url: /experience
-      weight: 20
-
     # Parent for dropdown
     - identifier: articles
-      name: Articles
+      name: Articles and Reports
       url: /articles/
-      weight: 30
+      weight: 20
 
     # Children in the dropdown
     - identifier: articles-IT
       name: Ireland Thinks
       url: /articles/IT/
-      weight: 31
+      weight: 21
       parent: articles
 
     - identifier: articles-TN
       name: Trinity News
       url: /articles/TN/
-      weight: 33
+      weight: 23
       parent: articles
 
     - identifier: projects
       name: Projects
       url: /projects
-      weight: 50
+      weight: 30
 
 params:
   # theme
@@ -62,7 +57,7 @@ params:
   profileMode:
     enabled: true
     title: "Ben Heskin"
-    subtitle: "Hello! I’m Ben, a recent Mathematics graduate (minor in Economics) from Trinity College Dublin. This site showcases my projects, articles, and CV - feel free to reach out with any questions!"
+    subtitle: "Hello! I’m Ben, a recent Mathematics graduate (minor in Economics) from Trinity College Dublin. This site showcases my projects, articles, and reports - feel free to reach out with any questions!"
     imageUrl: "/home/me.png"
     imageWidth: 220
     imageHeight: 220
