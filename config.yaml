@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true
     title: "Ben Heskin"
-    subtitle: "Hello! I’m Ben, a recent Mathematics graduate (minor in Economics) from Trinity College Dublin. This site showcases my projects, articles, and reports - feel free to reach out with any questions!"
+    subtitle: "Hello! I’m Ben, a first year Masters in Financial Engineering (MSFE) student at NYU Tandon. I am a recent Mathematics graduate (minor in Economics) from Trinity College Dublin. This site showcases my projects, articles, and reports - feel free to reach out with any questions!"
     imageUrl: "/home/me.png"
     imageWidth: 220
     imageHeight: 220
