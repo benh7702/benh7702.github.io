@@ -9,7 +9,7 @@ View the pdf in another tab here
 &lt;/a>
 &lt;h4 id="pdf">PDF&lt;/h4>
 &lt;div style="position: relative; padding-top: 75%; height: 0; overflow: hidden;">
-&lt;iframe src="static/projects/projects/Estimation_Error_in_Portfolio_Optimisation (1).pdf"
+&lt;iframe src="https://benh7702.github.io/projects/projects/Estimation_Error_in_Portfolio_Optimisation (1).pdf"
 style="position:absolute; top:0; left:0; width:100%; height:300%; border:none;"
 allowfullscreen>
 &lt;/iframe>
@@ -20,7 +20,7 @@ View the pdf in another tab here
 &lt;/a>
 &lt;h4 id="pdf">PDF&lt;/h4>
 &lt;div style="position: relative; padding-top: 75%; height: 0; overflow: hidden;">
-&lt;iframe src="https://benh7702.github.io/static/projects/projects/project_2.pdf"
+&lt;iframe src="https://benh7702.github.io/projects/projects/project_2.pdf"
 style="position:absolute; top:0; left:0; width:100%; height:300%; border:none;"
 allowfullscreen>
 &lt;/iframe>
