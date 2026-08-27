@@ -37,6 +37,12 @@ menu:
       weight: 23
       parent: articles
 
+    - identifier: articles-seraph
+      name: Seraph
+      url: /articles/seraph/
+      weight: 25
+      parent: articles
+
     - identifier: projects
       name: Projects
       url: /projects
