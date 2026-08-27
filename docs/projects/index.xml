@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Projects on Ben Heskin</title><link>https://benh7702.github.io/projects/</link><description>Recent content in Projects on Ben Heskin</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><atom:link href="https://benh7702.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Estimation Error in Portfolio Optimisation</title><link>https://benh7702.github.io/projects/p1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://benh7702.github.io/projects/p1/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
 &lt;p>This project evaluates four portfolio optimization methods—ranging from classical mean-variance to Wasserstein robust CVaR—against an equal-weighted benchmark using a rolling 60-month out-of-sample backtest across 12 US industry portfolios. It investigates whether progressively mitigating parameter estimation noise and tail risk translates into genuine out-of-sample performance gains after accounting for trading costs.&lt;/p>
-&lt;a href="static/projects/projects/Estimation_Error_in_Portfolio_Optimisation%20%281%29.pdf" target="_blank" rel="noopener" class="pdfbutton" style="display:inline-block;padding:0.5rem 0.9rem;border:1px solid currentColor;border-radius:6px;text-decoration:none;">
+&lt;a href="https://benh7702.github.io/projects/projects/Estimation_Error_in_Portfolio_Optimisation%20%281%29.pdf" target="_blank" rel="noopener" class="pdfbutton" style="display:inline-block;padding:0.5rem 0.9rem;border:1px solid currentColor;border-radius:6px;text-decoration:none;">
 View the pdf in another tab here
 &lt;/a>
 &lt;h4 id="pdf">PDF&lt;/h4>
@@ -11,7 +11,7 @@ allowfullscreen>
 &lt;/iframe>
 &lt;/div></description></item><item><title>Statistical Evaluation of Cross-Sectional Equity Trading Signals</title><link>https://benh7702.github.io/projects/p2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://benh7702.github.io/projects/p2/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
 &lt;p>This project evaluates 54 cross-sectional equity trading signals across seven factor families to determine whether multiple testing corrections, factor residualization, and signal blending improve out-of-sample portfolio stability over selecting top historical winners. Tested on a locked out-of-sample period with linear transaction costs, it demonstrates how backtest overfitting and signal collinearity erode unadjusted alpha, emphasizing the need for rigorous statistical screening in quantitative strategy construction.&lt;/p>
-&lt;a href="https://benh7702.github.io/static/projects/projects/project_2.pdf" target="_blank" rel="noopener" class="pdfbutton" style="display:inline-block;padding:0.5rem 0.9rem;border:1px solid currentColor;border-radius:6px;text-decoration:none;">
+&lt;a href="https://benh7702.github.io/projects/projects/project_2.pdf" target="_blank" rel="noopener" class="pdfbutton" style="display:inline-block;padding:0.5rem 0.9rem;border:1px solid currentColor;border-radius:6px;text-decoration:none;">
 View the pdf in another tab here
 &lt;/a>
 &lt;h4 id="pdf">PDF&lt;/h4>
